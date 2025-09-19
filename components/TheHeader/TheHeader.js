@@ -23,7 +23,7 @@ const TheHeader = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Loretta’s Choco
+          Trufle
         </Link>
         <nav className="header__navigation navigation">
           <ul className="navigation__list">
