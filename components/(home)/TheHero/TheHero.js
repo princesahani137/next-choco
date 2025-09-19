@@ -10,7 +10,7 @@ const TheHero = () => {
   return (
     <section className="hero">
       <div className="hero__container container">
-        <h1 className="hero__title title">Loretta’s Choco</h1>
+        <h1 className="hero__title title">Trufle Choco</h1>
         <p className="hero__subtitle subtitle">
           Indulge yourself or your loved ones with the finest ingredients for a
           moment of pure chocolate delight!
