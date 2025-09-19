@@ -12,7 +12,7 @@ const TheInspired = () => {
         <div className="inspired__wrapper">
           <h2 className="inspired__title title">
             Be inspired by a selection of Handmade, bespoke creations from
-            Loretta’s Choco
+            Trufle Choco
           </h2>
           <p className="inspired__txt">
             Get inspired by our handmade chocolate and gift care and love to
