@@ -6,7 +6,7 @@ const TheBenefits = () => {
     <section className="benefits">
       <div className="benefits__container container">
         <h2 hidden className="benefits__title">
-          Benefits of Loretta’s Choco
+          Benefits of Trufle Choco
         </h2>
         <ul className="benefits__list">
           <li className="benefits__item">
