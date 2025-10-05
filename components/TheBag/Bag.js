@@ -87,7 +87,7 @@ const Bag = ({ clearOne }) => {
         </div>
              
             </div>
-          </div>
+        
         )}
       </div>
 
