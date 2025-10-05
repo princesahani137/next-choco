@@ -84,9 +84,8 @@ const Bag = ({ clearOne }) => {
 
             <div className="form">
                 <button
-                  className="form__btn"
-                  onClick={() => windows.location.href = "https://youtube.com">
-                  Subscribe
+                  onclick="windows.location.href="www.google.com">
+                    Order
                 </button>
         </div>
              
