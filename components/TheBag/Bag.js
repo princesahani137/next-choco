@@ -88,8 +88,12 @@ const Bag = ({ clearOne }) => {
                   onClick={() => windows.location.href = "https://youtube.com">
                   Subscribe
                 </button>
+        </div>
+             
+            </div>
+          </div>
+        )}
       </div>
-                    </div>
 
       {/* basket */}
 
