@@ -90,11 +90,6 @@ const Bag = ({ clearOne }) => {
                 >
                   Subscribe
                 </button>
-              </div>
-              {emailError && <p className="error-message">{emailError}</p>}
-            </div>
-          </div>
-        )}
       </div>
 
       {/* basket */}
