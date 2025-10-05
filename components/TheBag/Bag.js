@@ -76,26 +76,17 @@ const Bag = ({ clearOne }) => {
             <p className="bag__slogan">
               We’re delighted that you’ve chosen us!{" "}
               <span>
-                Please enter your email, and we’ll send you all the details of
-                your order.
+                Please tap the button below and tell us what chocolate you desire.
               </span>
               <br /> Thank you for making a purchase with Loretta’s Choco. We
               assure you that every chocolate experience will be unforgettable!
             </p>
 
             <div className="form">
-              <div className="form__wrapper">
-                <input
-                  className="form__input"
-                  type="email"
-                  placeholder="Enter your email"
-                  value={email}
-                  onChange={handleEmailChange}
-                />
                 <button
                   className="form__btn"
-                  type="submit"
-                  disabled={!validateEmail(email)}
+                  onClick={() => windows.location.href = "https://youtube.com"
+                 
                 >
                   Subscribe
                 </button>
