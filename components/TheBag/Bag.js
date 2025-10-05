@@ -83,7 +83,7 @@ const Bag = ({ clearOne }) => {
             </p>
 
             <div className="form">
-                <a href="https://youtube.com" class="btn">Order</a>
+                <a href="https://wa.me/9118619522?text=Hii Trufl!!!" class="btn">Order</a>
         </div>
              
             </div>
